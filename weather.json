@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -51.0233,
+    "lat": -30.0811
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "nublado",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 13.63,
+    "feels_like": 13.48,
+    "temp_min": 13.15,
+    "temp_max": 14.6,
+    "pressure": 1022,
+    "humidity": 93
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.57,
+    "deg": 250
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1624235583,
+  "sys": {
+    "type": 1,
+    "id": 8467,
+    "country": "BR",
+    "sunrise": 1624184373,
+    "sunset": 1624221110
+  },
+  "timezone": -10800,
+  "id": 3445156,
+  "name": "Viamão",
+  "cod": 200
+}
